@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styles from './Profile.module.css';
 
-const API_BASE = 'http://localhost:5000';
+const API_BASE = '/api';
 
 function Profile() {
   const [profile, setProfile] = useState(null);

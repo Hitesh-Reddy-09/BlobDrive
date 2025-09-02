@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import styles from './Login.module.css';
 import { motion } from 'framer-motion';
 
-const API_BASE = 'http://localhost:5000';
+const API_BASE = '/api';
 
 function Signup() {
   const [username, setUsername] = useState('');
