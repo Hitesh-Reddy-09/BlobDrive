@@ -30,7 +30,7 @@ A modern, fullstack Google Drive-like application for secure, effortless file st
 #### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone [https://github.com/Hitesh-Reddy-09/BlobDrive.git](https://github.com/Hitesh-Reddy-09/BlobDrive.git)
 cd project
 ```
 
